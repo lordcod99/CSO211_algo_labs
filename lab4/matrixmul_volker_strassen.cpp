@@ -139,5 +139,6 @@ int main()
 
  //time complexity = O(n^log7) ==> O(n^2.807)
  // space complexity = O(N) N=number of elements =n^2 (n=size of nxn matrix)
- // auxilary space complexity = O(N) or O(n^2) N=number of elements =n^2 (n=size of nxn matrix)
- //
+ // auxilary space complexity = O(logN) or O(n^2) N=number of elements =n^2 (n=size of nxn matrix)
+ // we make A B C matrix to n/2xn/2 matrix on each recursion n=1 is the base case recusion 
+ //detailed sub part are given as comments in code 

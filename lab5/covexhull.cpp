@@ -83,7 +83,7 @@ int main()
 
     return 0;
  } 
-
+// quickhull:
 // space complexity : average case => tn=2t(n/2)+O(n)
 // T(n) = O(nlog n)
 // worst case : T(n)=T(n-1)+O(n) 
@@ -143,8 +143,7 @@ int main()
 
 
 
-
-
+// this is DandC 
 
 
 

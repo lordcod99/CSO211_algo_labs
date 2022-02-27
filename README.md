@@ -5,3 +5,4 @@
 - [lab2](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab2) : Iterative and Recursive implementation of Tower of Hanoi
 - [lab3](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab3) : Binary multiplication by divide and conquer 
 - [lab4](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab4) : matrix(nxn) multiplication by strassen algorithm 
+- [lab5](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab5) : Convexhull by Quickhull(D&C) algorithm 

@@ -102,3 +102,9 @@ int main()
     
     return 0;
  } 
+
+
+
+ // time complexity of insert: O(logn)
+ // delet : O(logn)
+ // peek : O(1) constant time

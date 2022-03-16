@@ -103,7 +103,7 @@ int main()
 // v=nof nodes E=V(v-1)~v^2 no of edges 
 //sorting takes O(Elogv)
 //dsu takes at most O(logv)
-// tiem complexit = O(Elogv)
+// time complexit = O(Elogv)
 // space complexity = O(|E| + |v|) 
 // O(|v|) form dsu and E form all edges 
 // 

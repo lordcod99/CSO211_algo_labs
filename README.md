@@ -9,3 +9,6 @@
 - [lab6](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab6) : priority queue using binary heap
 - [lab7](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab7) : minimum spamming tre by kruskal's and prims algorithm 
 - [lab8](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab8) : second best minimum spamming tree using kruskal's algorithm 
+- [lab9](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab9) : dp sollution to chian matrix multiplication 
+- [lab10](https://github.com/lordcod99/CSO211_algo_labs/tree/main/lab10) : dp sollution to lcs
+
